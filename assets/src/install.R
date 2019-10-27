@@ -1,0 +1,8 @@
+install.packages("sf")
+install.packages("raster")
+install.packages("spData")
+install.packages("RStoolbox")
+install.packages("caret")
+install.packages("devtools")
+devtools::install_github("Nowosad/spDataLarge")
+devtools::install_github("16EAGLE/getSpatialData", force = TRUE)
