@@ -193,5 +193,5 @@ Grab the code at https://code.earthengine.google.com/e0f29325323ccecfe0c4b2240dd
 @snapend
 
 @snap[south span-100 text-06]
-[https://gitpitch.com/firmanhadi/pitch_fmipa-untan](https://gitpitch.com/firmanhadi/pitch_fmipa-untan)
+[https://gitpitch.com/firmanhadi/pitch_fahutan-untan](https://gitpitch.com/firmanhadi/pitch_fahutan-untan)
 @snapend
