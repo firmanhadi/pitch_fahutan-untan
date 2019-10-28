@@ -164,7 +164,7 @@ firman@indotechsa.com
 Grab the code at https://code.earthengine.google.com/309390b7ecb50eaac7ed3724b861e395
 @snapend
 
-@code[js](assets/src/gee.js)(First example)
+@code[js zoom-6](assets/src/gee.js)
 
 @snap[south span-100 text-08]
 @[1-8,zoom-13]
@@ -176,7 +176,7 @@ Grab the code at https://code.earthengine.google.com/309390b7ecb50eaac7ed3724b86
 Grab the code at https://code.earthengine.google.com/e0f29325323ccecfe0c4b2240dd9bd03
 @snapend
 
-@code[js zoom-6](assets/src/gee1.js)(First example)
+@code[js zoom-6](assets/src/gee1.js)
 
 @snap[south span-100 text-08]
 @[4-11,zoom-13]
