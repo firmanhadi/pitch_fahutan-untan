@@ -161,7 +161,7 @@ firman@indotechsa.com
 
 ---
 @snap[north-east span-80 text-06 text-gray]
-Grab the code at https://code.earthengine.google.com/xxxxx
+Grab the code at https://code.earthengine.google.com/309390b7ecb50eaac7ed3724b861e395
 @snapend
 
 @code[http zoom-6](assets/src/gee.js)(First example)
@@ -173,7 +173,7 @@ Grab the code at https://code.earthengine.google.com/xxxxx
 
 ---
 @snap[north-east span-80 text-06 text-gray]
-Grab the code at https://code.earthengine.google.com/xxxxx
+Grab the code at https://code.earthengine.google.com/e0f29325323ccecfe0c4b2240dd9bd03
 @snapend
 
 @code[http zoom-6](assets/src/gee1.js)(First example)
